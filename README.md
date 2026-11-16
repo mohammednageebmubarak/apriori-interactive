@@ -1,13 +1,20 @@
-# Apriori — Interactive Data Mining Lab
+<div align="center">
 
-## خوارزمية Apriori | Apriori
+# 🔗 Apriori — Interactive Data Mining Lab
+### خوارزمية Apriori | مختبر تعليمي تفاعلي
+
+**العربية | English · Interactive · Offline-ready**
+
+**[🚀 Open Interactive Lesson | افتح الدرس التفاعلي](https://mohammednageebmubarak.github.io/apriori-interactive/)**
+
+</div>
 
 An offline-ready **single-file bilingual (Arabic/English) interactive lesson** for Master's-level Information Systems learners and introductory Data Mining study.
 
 درس تفاعلي عربي/إنجليزي عن **خوارزمية Apriori** يعمل مباشرة في المتصفح دون مكتبات خارجية أو اتصال بالإنترنت.
 
 ### Launch | فتح الدرس
-- **Live site (after GitHub Pages is enabled):** https://mohammednageebmubarak.github.io/apriori-interactive/
+- **Live website | الموقع المباشر:** [Open interactive lesson | افتح الدرس](https://mohammednageebmubarak.github.io/apriori-interactive/)
 - **Offline:** download [index.html](./index.html) and open it in your browser.
 - **GitHub Pages configuration:** Settings → Pages → Deploy from a branch → **main** → **/ (root)**.
 - **Repository name:** `apriori-interactive` (already renamed).
